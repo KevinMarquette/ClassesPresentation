@@ -623,13 +623,21 @@ class Firewall
 	}
 }
 
+<#
+Developing with PowerShell Classes: Here be Dragons by Brandon Olin
+https://www.youtube.com/watch?v=i1DpPU_xxBc
+#>
+
 # SOLID principals and Design patterns
+#   Single Responsibility Principle
+#   Open/Closed Principle
+#   Liskov Substitution Principle
+#   Interface Segregation Principle
+#   Dependency Inversion
+
+# Design Patterns (Gang of 4)
 # http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
 
 # Real World Examples
 
 
-<#
-Developing with PowerShell Classes: Here be Dragons by Brandon Olin
-https://www.youtube.com/watch?v=i1DpPU_xxBc
-#>
